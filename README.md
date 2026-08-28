@@ -1,3 +1,11 @@
+
+---
+
+### 2. Actualizar el README principal
+
+Abre el `README.md` de la **raíz** del repositorio y reemplázalo por este contenido:
+
+```markdown
 # Learning Log
 
 Registro de mi aprendizaje para convertirme en Desarrollador de Software Junior.
@@ -32,5 +40,12 @@ Seguir un bootcamp desde cero combinando **Python + JavaScript/TypeScript** para
 - [x] Contadores
 - [x] Mini-proyecto: Juego Adivina el Número
 
+#### Semana 4 - Listas y Diccionarios
+- [x] Diccionarios (clave-valor)
+- [x] Recorrer diccionarios con `.items()`
+- [x] Menú interactivo
+- [x] Validaciones básicas
+- [x] Mini-proyecto: Lista de compras
+
 #### Próximos pasos
-- Semana 4: Listas y Diccionarios
+- Semana 5: Funciones
