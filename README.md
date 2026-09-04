@@ -47,5 +47,12 @@ Seguir un bootcamp desde cero combinando **Python + JavaScript/TypeScript** para
 - [x] Validaciones básicas
 - [x] Mini-proyecto: Lista de compras
 
+#### Semana 5 - Funciones
+- [x] Crear funciones
+- [x] Parámetros y return
+- [x] Refactorizar programas con funciones
+- [x] Lista de diccionarios (buscar y eliminar)
+- [x] Mini-proyectos: Lista de compras + Calculadora + Gestor de contactos
+
 #### Próximos pasos
-- Semana 5: Funciones
+- Semana 6: Archivos y manejo de errores
