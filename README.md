@@ -54,5 +54,13 @@ Seguir un bootcamp desde cero combinando **Python + JavaScript/TypeScript** para
 - [x] Lista de diccionarios (buscar y eliminar)
 - [x] Mini-proyectos: Lista de compras + Calculadora + Gestor de contactos
 
+
+#### Semana 6 - Archivos y Manejo de Errores
+- [x] `with open(...)`
+- [x] Lectura y escritura de archivos
+- [x] `try / except` (FileNotFoundError)
+- [x] Persistencia de datos
+- [x] Mini-proyectos: Contactos + Lista de tareas con archivo
+
 #### Próximos pasos
-- Semana 6: Archivos y manejo de errores
+- Semana 7: Introducción a la Programación Orientada a Objetos (clases y objetos)
